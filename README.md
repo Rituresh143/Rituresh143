@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rituresh Rai</h1>
+![computer-the-room-hacker-the-world-at-night-wallpaper-preview](https://user-images.githubusercontent.com/76609761/139382053-963094db-11bf-47ec-a533-8445085fc93d.jpg)
+
+
+
+<h1 align="center">Hi 👋, I'm Rituresh Rai</h1> 
 <h3 align="center">A passionate WEB developer AND COMPETITIVE PROGRAMMER</h3>
 
 
