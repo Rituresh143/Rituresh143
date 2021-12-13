@@ -1,9 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I+am+Rituresh+Rai.;I+am+an+ever-learning+software+developer.)](https://git.io/typing-svg)
+
 ![giphy](https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif)
 
 
 
-
-<h1 align="center">Hi 👋, I'm Rituresh Rai</h1> 
+<!-- <h1 align="center">Hi 👋, I'm Rituresh Rai</h1>  -->
 <h3 align="center">A passionate WEB developer AND COMPETITIVE PROGRAMMER</h3>
 
 
