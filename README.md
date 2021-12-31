@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rituresh143&show_icons=true&locale=en" alt="rituresh143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rituresh143&" alt="rituresh143" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rituresh143&label=Profile%20views&color=ce9927&style=flat" alt="Rituresh143"/> </p>
